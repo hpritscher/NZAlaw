@@ -1,0 +1,65 @@
+html {
+
+}
+.content {
+  max-width: 800px;
+  margin: auto;
+}
+head{
+
+}
+body{
+  background-color: #ffffff;
+  font-family: arial, serif;
+  font-size: 1em;
+  margin: auto;
+  max-width: 800px;
+}
+.topnav{
+display: inline;
+
+}
+img {
+  border: 1px;
+
+}
+.newsfeed{
+  float: right;
+  max-width: 200px;
+  max-height: 350px;
+  color: white;
+
+}
+p {
+  font-size: .7em
+
+}
+aside {
+  float: right;
+  background-color: #b22222;
+
+}
+li {
+  display: inline;
+  padding: 5px;
+  padding-left: 1px;
+  padding-right: 20px;
+}
+a {
+  display: inline;
+  padding: 8px;
+  font-size: .8em;
+}
+.welcome {
+float: left;
+max-width:550px
+}
+.footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  align-self: center;
+  display: block;
+
+}
